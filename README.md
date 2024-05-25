@@ -1,7 +1,7 @@
 Hi 👋 My name is Matthew Ofomi
 ==============================
 
-Web Developer and Designer
+Software Engineer
 --------------------------
 
 Highly skilled and motivated software developer with 4 years of experience in designing, developing, and deploying software solutions. Proficient in a variety of programming languages and technologies, with a strong focus on web and mobile development.
