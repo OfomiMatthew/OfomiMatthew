@@ -8,7 +8,7 @@ Highly skilled and motivated software developer with 4 years of experience in de
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [ofomimatthew7@gmail.com](mailto:ofomimatthew7@gmail.com)
-* 🧠  I'm learning React Native and Java
+* 🧠  I'm learning React Native and Ruby
 
 ### Skills
 
